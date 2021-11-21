@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="submit">Submit</string>
+    <string name="currency_input">Currency Input</string>
+    <string name="currency_output">Currency Output</string>
+    <string name="textInfo">With this application you can convert currencies!</string>
+
+    <string-array name="currencies">
+        <item>Euro</item>
+        <item>US Dollar</item>
+        <item>Yen</item>
+        <item>Russischer Rubel</item>
+        <item>Schweizer Franken</item>
+        <item>Österreichischer Schilling</item>
+    </string-array>
+</resources>
